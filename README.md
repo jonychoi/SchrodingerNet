@@ -1,5 +1,5 @@
 # SchrödingerNet: Quantized Neural Network
 
-## ISN'T IT ILLUSION TO SEE THE WORLD?
+## IS IT REAL? THAN WHAT IS REAL?
 
 Embed the probabilities to the Convolutions and Normalizations
